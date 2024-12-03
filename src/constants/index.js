@@ -1,13 +1,21 @@
-import {
-    blackImg,
-    blueImg,
-    highlightFirstVideo,
-    highlightFourthVideo,
-    highlightSecondVideo,
-    highlightThirdVideo,
-    whiteImg,
-    yellowImg,
-  } from "../utils";
+// import {
+//     blackImg,
+//     blueImg,
+//     highlightFirstVideo,
+//     highlightFourthVideo,
+//     highlightSecondVideo,
+//     highlightThirdVideo,
+//     whiteImg,
+//     yellowImg,
+//   } from "../utils";
+import yellowImg from "/assets/images/yellow.jpg";
+import blueImg from "/assets/images/blue.jpg";
+import whiteImg from "/assets/images/white.jpg";
+import blackImg from "/assets/images/black.jpg";
+import highlightFirstVideo from "/assets/videos/highlight-first.mp4";
+import highlightSecondVideo from "/assets/videos/hightlight-third.mp4";
+import highlightThirdVideo from "/assets/videos/hightlight-sec.mp4";
+import highlightFourthVideo from "/assets/videos/hightlight-fourth.mp4";
   
   export const navLists = ["Store", "Mac", "iPhone", "Support"];
   
