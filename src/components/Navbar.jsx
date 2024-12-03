@@ -1,5 +1,8 @@
 import React from 'react'
-import { appleImg, bagImg, searchImg } from '../utils';
+// import  appleImg, {bagImg}, searchImg  from '../utils';
+import appleImg from "/assets/images/apple.svg";
+import searchImg from "/assets/images/search.svg";
+import bagImg from "/assets/images/bag.svg";
 import { navLists } from '../constants';
 
 
