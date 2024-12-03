@@ -1,5 +1,8 @@
 import React, { useRef } from 'react'
-import { chipImg, frameImg, frameVideo } from '../utils'
+// import { chipImg, frameImg, frameVideo } from '../utils'
+import chipImg from "/assets/images/chip.jpeg";
+import frameImg from "/assets/images/frame.png";
+import frameVideo from "/assets/videos/frame.mp4";
 import { useGSAP } from '@gsap/react'
 import gsap from 'gsap';
 import { animateWithGsap } from '../utils/animations';
